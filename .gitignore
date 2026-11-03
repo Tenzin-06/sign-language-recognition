@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+venv312/
+.venv/
+.venv312/
+
+# Dataset
+data/
+MP_Data/
+*.mp4
+*.npy
+
+# Logs
+Logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
