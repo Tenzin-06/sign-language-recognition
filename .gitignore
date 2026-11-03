@@ -9,6 +9,7 @@ data/
 MP_Data/
 *.mp4
 *.npy
+*.npz
 
 # Logs
 Logs/
