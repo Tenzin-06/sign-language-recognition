@@ -1,0 +1,19 @@
+{
+  "seq_len": 32,
+  "n_features": 126,
+  "feature_slice": [
+    132,
+    258
+  ],
+  "normalize": true,
+  "model": "final_seed2",
+  "val_top1_mean": 0.4525,
+  "val_top1_std": 0.0252,
+  "val_top5_mean": 0.6909,
+  "val_top5_std": 0.0278,
+  "model_version": "v1",
+  "n_classes": 100,
+  "tensorflow": "2.21.0",
+  "mediapipe": "PASTE the version printed in your extraction notebook (print(mp.__version__))",
+  "trained_on": "WLASL100 official train split, Kaggle copy (748 videos)"
+}

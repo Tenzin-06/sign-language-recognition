@@ -1,0 +1,4 @@
+name,val_top1,val_top5,train_top1,best_epoch,params,seed,batch,aug,norm,act,units,dropout,dense
+final_seed1,0.4242,0.6606,0.9865,57,751332,1,32,8,True,tanh,"(128, 256, 128)",0.5,"(128,)"
+final_seed2,0.4727,0.7152,0.9761,29,751332,2,32,8,True,tanh,"(128, 256, 128)",0.5,"(128,)"
+final_seed3,0.4606,0.697,0.9856,61,751332,3,32,8,True,tanh,"(128, 256, 128)",0.5,"(128,)"
