@@ -15,5 +15,7 @@
   "n_classes": 100,
   "tensorflow": "2.21.0",
   "mediapipe": "PASTE the version printed in your extraction notebook (print(mp.__version__))",
-  "trained_on": "WLASL100 official train split, Kaggle copy (748 videos)"
+  "trained_on": "WLASL100 official train split, Kaggle copy (748 videos)",
+  "test_top1": 0.34,
+  "test_top5": 0.68
 }
